@@ -15,14 +15,13 @@
 
 [bla-theme1.ecigtheme](https://github.com/hobbyquaker/dna75c/raw/master/bla-theme1.ecigtheme)
 
-* Profile
+
+<img align="left" src="https://github.com/hobbyquaker/dna75c/blob/master/bla-theme1.png?raw=true">
+
 * Temperature Setting
 * Power/Temperature Chart
 * Cold Resistance, Maximum Power
 * Last Puff Time, Last Puff Power, Last Puff Maximum Temperature
 * Screen, Settings
 * Battery Gauge, Battery Percentage
-
-![](bla-theme1.png)
-
 
