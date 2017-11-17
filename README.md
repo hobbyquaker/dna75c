@@ -11,9 +11,9 @@
 
 ## Themes
 
-#### theme1
+#### bla-theme1
 
-[theme1.ecigtheme](https://github.com/hobbyquaker/dna75c/raw/master/theme1.ecigtheme)
+[bla-theme1.ecigtheme](https://github.com/hobbyquaker/dna75c/raw/master/bla-theme1.ecigtheme)
 
 * Profile
 * Temperature Setting
@@ -23,6 +23,6 @@
 * Screen, Settings
 * Battery Gauge, Battery Percentage
 
-![](theme1.jpg)
+![](bla-theme1.jpg)
 
 
