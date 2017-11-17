@@ -6,14 +6,14 @@
 
 #### dualnife1
 
-[Configuration for Dual Nife48 0,4mm Wire Coils with 6 Wicks](dualnife1.ecig)
+[Configuration for Dual Nife48 0,4mm Wire Coils with 6 Wicks](https://github.com/hobbyquaker/dna75c/raw/master/dualnife1.ecig)
 
 
 ## Themes
 
 #### theme1
 
-[theme1.ecigtheme](theme1.ecigtheme)
+[theme1.ecigtheme](https://github.com/hobbyquaker/dna75c/raw/master/theme1.ecigtheme)
 
 * Profile
 * Temperature Setting
@@ -23,5 +23,6 @@
 * Screen, Settings
 * Battery Gauge, Battery Percentage
 
-![theme1][theme1.jpeg]
+![theme1](theme1.jpeg "Theme 1")
+
 
