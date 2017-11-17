@@ -23,6 +23,6 @@
 * Screen, Settings
 * Battery Gauge, Battery Percentage
 
-![](bla-theme1.jpg)
+![](bla-theme1.png)
 
 
