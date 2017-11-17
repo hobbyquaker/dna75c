@@ -23,6 +23,6 @@
 * Screen, Settings
 * Battery Gauge, Battery Percentage
 
-![theme1](theme1.jpeg "Theme 1")
+![](theme1.jpeg | width=100)
 
 
