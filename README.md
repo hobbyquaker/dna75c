@@ -1,6 +1,6 @@
 # dna75c
 
-> My config and themes for the VT75c Vape Mod (DNA75C Chipset) ☁️ 🔋 🔧
+> My config and themes for the DNA75c Vape Mods ☁️ 🔋 🔧
 
 ## Configs
 
